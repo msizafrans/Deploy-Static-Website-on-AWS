@@ -21,3 +21,9 @@ You will configure the bucket for website hosting and secure it using IAM polici
 You will speed up content delivery using AWS’s content distribution network service, CloudFront.
 You will access your website in a browser using the unique CloudFront endpoint.
 
+**Topics Covered:**
+S3 bucket creation
+S3 bucket configuration
+Website distribution via CloudFront
+Access website via web browser
+
