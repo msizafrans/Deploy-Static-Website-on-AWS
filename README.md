@@ -7,7 +7,7 @@ Hosting a static website on S3 and
 Accessing the cached website pages using CloudFront content delivery network (CDN) service. Recall that CloudFront offers low latency and high transfer speeds during website rendering.
 Note that Static website hosting essentially requires a public bucket, whereas the CloudFront can work with public and private buckets.
 
-**Starter files included are:**
+**Starter files and code included are:**
 
 index.html - The Index document for the website.
 /img - The background image file for the website.
