@@ -19,7 +19,8 @@ index.html - The Index document for the website.
 4. Then access the website in a browser using the unique CloudFront endpoint.
 
 # Topics Covered: 
-S3 bucket creation, 
-S3 bucket configuration, 
-Website distribution via CloudFront, 
-Access website via web browser
+
+1. S3 bucket creation
+2. S3 bucket configuration
+3. Website distribution via CloudFront
+4. Access website via web browser
