@@ -13,10 +13,11 @@ index.html - The Index document for the website.
 
 # Project implementation steps are as follows:
 
-1. Create a public S3 bucket and upload the website files to your bucket. 
-2. Configure the bucket for website hosting and secure it using IAM policies. 
-3. Speed up content delivery using AWS’s content distribution network service, CloudFront. 
-4. Then access the website in a browser using the unique CloudFront endpoint.
+1. Download the zipped website files
+2. Create a public S3 bucket and upload the website files to your bucket. 
+3. Configure the bucket for website hosting and secure it using IAM policies. 
+4. Speed up content delivery using AWS’s content distribution network service, CloudFront. 
+5. Then access the website in a browser using the unique CloudFront endpoint.
 
 # Topics Covered: 
 
