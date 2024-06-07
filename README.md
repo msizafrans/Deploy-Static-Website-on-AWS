@@ -12,6 +12,7 @@ Hosting a static website on S3 and Accessing the cached website pages using Clou
 - /css - CSS files for the website.
 
 * * * NOTE: For MacOS users, upload all files in the "__MACOSX" folder instead.
+            To download the zipped file: Select it from the file tree, then select "view raw", it should start downloading.
    
 # Screenshots of all steps are included in the repository to serve as a guideline for implementing the project.
 
