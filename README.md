@@ -31,7 +31,7 @@ Hosting a static website on S3 and Accessing the cached website pages using Clou
 
 # Topics Covered: 
 
-S3 bucket creation,
-S3 bucket configuration,
-Website distribution via CloudFront and
-Access website via web browser
+- S3 bucket creation
+- S3 bucket configuratio,
+- Website distribution via CloudFront
+- Access website via web browser
