@@ -4,14 +4,16 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 Hosting a static website on S3 and Accessing the cached website pages using CloudFront content delivery network (CDN) service as CloudFront offers low latency and high transfer speeds during website rendering.
 
-# Screenshots of all steps are included in the repository to serve as a guideline for implementing the project.
-
-# Website files uploaded to the S3 bucket includes:
+# The static website files to be uploaded to the S3 bucket include:
 
 index.html - The Index document for the website. 
 /img - The background image file for the website. 
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function. 
 /css - CSS files for the website.
+
+* * * NOTE: For MacOS users, upload all files in the "__MACOSX" folder instead.
+   
+# Screenshots of all steps are included in the repository to serve as a guideline for implementing the project.
 
 # Project implementation steps are as follows:
 
