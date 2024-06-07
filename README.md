@@ -20,7 +20,7 @@ index.html - The Index document for the website.
 
 # Topics Covered: 
 
-1. S3 bucket creation
-2. S3 bucket configuration
-3. Website distribution via CloudFront
-4. Access website via web browser
+S3 bucket creation,
+S3 bucket configuration,
+Website distribution via CloudFront and
+Access website via web browser
