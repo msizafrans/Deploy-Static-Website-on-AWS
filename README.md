@@ -11,7 +11,7 @@ Hosting a static website on S3 and Accessing the cached website pages using Clou
 - **/vendor** - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function. 
 - **/css** - CSS files for the website.
 
-- NOTE: For MacOS users, upload all files in the "__MACOSX" folder instead.
+- **NOTE:** For **MacOS** users, upload all files in the **"__MACOSX"** folder instead.
 
 # To download the zipped file select it from the file tree, then select "view raw", it should start downloading.
    
