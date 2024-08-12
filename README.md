@@ -29,7 +29,7 @@ Hosting a static website on S3 and Accessing the cached website pages using Clou
       - Don't select the bucket from the dropdown list. Paste the Static website hosting(bucket) endpoint i.e, <bucket-name>.s3-website-<region>.amazonaws.com. \
       - Leave the defaults for the rest of the options, and click “Create Distribution”. It may take up to 10 minutes for the CloudFront Distribution to get created. \
       - Once the status of your distribution changes from “In Progress” to “Deployed”, copy the endpoint URL for your CloudFront distribution found in the “Domain Name” column. \
-**7.** Then access the website in a browser using the unique CloudFront endpoint/Domain Name \
+**6.** Then access the website in a browser using the unique CloudFront endpoint/Domain Name \
 
 # Topics Covered: 
 
