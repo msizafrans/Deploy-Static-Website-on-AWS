@@ -21,15 +21,15 @@ Hosting a static website on S3 and Accessing the cached website pages using Clou
 
 **1.** Download the zipped "Static Website Files". \
 **2.** Create a public S3 bucket. \
-**3.** Configure the bucket for website hosting and secure it using IAM policies.
-**4.** Upload the website files to your bucket.  
-**5.** Speed up content delivery using AWS’s content distribution network service, CloudFront.
-      - Select “Services” from the top left corner of aws management console and enter “cloudfront” in the “Find a service by name or feature” text box and select “CloudFront”.
-      - From the CloudFront dashboard, click “Create Distribution”.
-      - Don't select the bucket from the dropdown list. Paste the Static website hosting(bucket) endpoint i.e, <bucket-name>.s3-website-<region>.amazonaws.com.
-      - Leave the defaults for the rest of the options, and click “Create Distribution”. It may take up to 10 minutes for the CloudFront Distribution to get created.
-      - Once the status of your distribution changes from “In Progress” to “Deployed”, copy the endpoint URL for your CloudFront distribution found in the “Domain Name” column.
-**7.** Then access the website in a browser using the unique CloudFront endpoint/Domain Name
+**3.** Configure the bucket for website hosting and secure it using IAM policies. \
+**4.** Upload the website files to your bucket. \
+**5.** Speed up content delivery using AWS’s content distribution network service, CloudFront. \
+      - Select “Services” from the top left corner of aws management console and enter “cloudfront” in the “Find a service by name or feature” text box and select “CloudFront”. \
+      - From the CloudFront dashboard, click “Create Distribution”. \
+      - Don't select the bucket from the dropdown list. Paste the Static website hosting(bucket) endpoint i.e, <bucket-name>.s3-website-<region>.amazonaws.com. \
+      - Leave the defaults for the rest of the options, and click “Create Distribution”. It may take up to 10 minutes for the CloudFront Distribution to get created. \
+      - Once the status of your distribution changes from “In Progress” to “Deployed”, copy the endpoint URL for your CloudFront distribution found in the “Domain Name” column. \
+**7.** Then access the website in a browser using the unique CloudFront endpoint/Domain Name \
 
 # Topics Covered: 
 
