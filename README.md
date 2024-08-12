@@ -19,8 +19,8 @@ Hosting a static website on S3 and Accessing the cached website pages using Clou
 
 # Project implementation steps are as follows:
 
-**1.** Download the zipped "Static Website Files".
-**2.** Create a public S3 bucket.
+**1.** Download the zipped "Static Website Files". \
+**2.** Create a public S3 bucket. \
 **3.** Configure the bucket for website hosting and secure it using IAM policies.
 **4.** Upload the website files to your bucket.  
 **5.** Speed up content delivery using AWS’s content distribution network service, CloudFront.
