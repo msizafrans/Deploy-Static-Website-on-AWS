@@ -1,10 +1,10 @@
-# Project - Deploy a Static Website on AWS
+## Project - Deploy a Static Website on AWS
 
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions to implement:
 
 Hosting a static website on S3 and Accessing the cached website pages using CloudFront content delivery network (CDN) service as CloudFront offers low latency and high transfer speeds during website rendering.
 
-# The static website files to be uploaded to the S3 bucket include:
+## The static website files to be uploaded to the S3 bucket include:
 
 - **index.html** - The Index document for the website. 
 - **/img** - The background image file for the website. 
@@ -17,7 +17,7 @@ Hosting a static website on S3 and Accessing the cached website pages using Clou
    
 **Screenshots of all steps are included in the repository to serve as a guideline for implementing the project.**
 
-# Project implementation steps are as follows:
+## Project implementation steps are as follows:
 
 **1.** Download the zipped "Static Website Files". \
 **2.** Create a public S3 bucket. \
@@ -31,7 +31,7 @@ Hosting a static website on S3 and Accessing the cached website pages using Clou
       - Once the status of your distribution changes from “In Progress” to “Deployed”, copy the endpoint URL for your CloudFront distribution found in the “Domain Name” column. \
 **6.** Then access the website in a browser using the unique CloudFront endpoint/Domain Name 
 
-# Topics Covered: 
+## Topics Covered: 
 
 - AWS - Cloud Computing 
 - S3 bucket creation
